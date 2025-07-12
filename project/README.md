@@ -73,24 +73,6 @@ employee-directory/
 └── screenshots/           → Images of UI (optional)
 ```
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/employee-directory.git
-```
-2. Open the project folder.
-3. Open `index.ftl` or `index.html` in a browser (or run it from a Freemarker-supporting server if `.ftl`).
-
-## 📸 Screenshots
-
-*(Upload the screenshots to GitHub or include like this)*
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Add/Edit Form](screenshots/form.png)
-![Responsive Mobile View](screenshots/mobile.png)
-```
 
 ## 💡 Error Handling
 
@@ -112,11 +94,4 @@ git clone https://github.com/your-username/employee-directory.git
 - Store data in browser localStorage to persist changes
 - Add animations and better UI feedback
 
-## 📌 Submission Info
 
-| Detail           | Value                                |
-|------------------|----------------------------------------|
-| Candidate Name   | Aishu Pulikanti *(or your name)*     |
-| Assignment       | Employee Directory Front-End Task     |
-| Language/Stack   | HTML, CSS, JavaScript, Freemarker     |
-| GitHub Repo Link | `https://github.com/your-username/...` |
